@@ -1,0 +1,40 @@
+Timestamp: 2024-06-17 21:09:58
+Recognized Faces: Prime
+Latitude: None, Longitude: None
+
+Timestamp: 2024-06-17 21:09:59
+Recognized Faces: 
+Latitude: 42.9868853, Longitude: 19.5180992
+
+Timestamp: 2024-06-17 21:13:22
+Recognized Faces: Prime
+Latitude: None
+Timestamp: 2024-06-17 21:13:23
+Recognized Faces: 
+Latitude: 42.9868853
+Timestamp: 2024-06-17 21:18:26
+Recognized Faces: Prime
+Latitude: None
+Timestamp: 2024-06-17 21:18:27
+Recognized Faces: 
+Latitude: 42.9868853
+Timestamp: 2024-06-17 21:19:59
+Recognized Faces: Prime
+Latitude: None
+Timestamp: 2024-06-17 21:20:00
+Recognized Faces: 
+Latitude: 42.9868853
+Timestamp: 2024-06-17 21:23:28
+Recognized Faces: Prime
+Latitude: None
+Timestamp: 2024-06-17 21:23:30
+Recognized Faces: 
+Latitude: 42.9868853
+Timestamp: 2024-06-17 21:27:24
+Recognized Faces: Prime
+Latitude: None, Longitude: None
+
+Timestamp: 2024-06-17 21:27:24
+Recognized Faces: 
+Latitude: 13.7563, Longitude: 100.5018
+
